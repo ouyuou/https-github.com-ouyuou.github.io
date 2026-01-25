@@ -13,12 +13,6 @@ Feel free to reach me through my email:
 →you3[at]cougarnet[dot]uh[dot]edu
 
 
-Latest Projects
-======
-
-
-Work Experiences
-======
 
 
 
