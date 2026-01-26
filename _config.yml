@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "My Page"
 title_separator          : "-"
 name                     : &name "Yu Zhu Sherry Ou"
@@ -26,11 +26,11 @@ repository               : "ouyuou/ouyuou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About Me"
+  name             : "Yu Zhu Sherry Ou"
   pronouns         : # example:  
-  bio              : "Yu Zhu Sherry Ou | Software Developer"
-  location         : "Houston, TX"
-  employer         : "University of Houston"
+  bio              : "CS + MATH "
+  location         : "Texas"
+  employer         : "UH"
   uri              : # URL
   email            : "oyuyuou@gmail.com" 
 
@@ -59,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

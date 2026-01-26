@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download my CV (PDF)]({{ base_path }}/files/cv.pdf)
+<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="900px"></iframe>

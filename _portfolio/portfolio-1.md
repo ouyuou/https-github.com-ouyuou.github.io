@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Museum Database Web App"
+excerpt: "Built a full-stack, role-based museum web portal with secure login for customers and employees. Implemented ticket booking, memberships, and donations with Stripe, and designed a MySQL database to manage accounts, transactions, and staff scheduling. Created dashboards and sales reports for visitor analytics.<br/><img src='/images/500x300.png'>"
+
 collection: portfolio
 ---
 
