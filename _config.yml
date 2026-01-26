@@ -31,7 +31,7 @@ author:
   bio              : "CS + MATH "
   location         : "Texas"
   employer         : "UH"
-  employer_url: "https://www.uh.edu"
+  - url : "https://www.uh.edu"
   uri              : 
   email            : "oyuyuou@gmail.com" 
 
